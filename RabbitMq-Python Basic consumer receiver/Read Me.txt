@@ -1,0 +1,2 @@
+Pip install pika
+Use the above command to install pika for RabbitMQ library for python
